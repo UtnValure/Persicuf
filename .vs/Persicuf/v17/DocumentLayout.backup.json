@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\zapatoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\remeraservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\pantalonservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\camperaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\prendaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43224BC-D16E-405B-98BC-E02263B6C731}|CORE\\CORE.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\core\\dtos\\prendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451D87CC-7C26-45ED-BC0D-397842E3D8CF}|DB\\DB.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\db\\models\\prenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\localidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\imagenservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\pedidoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\domicilioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\colorservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\prendaestampadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\interfaces\\iprendaestampadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43224BC-D16E-405B-98BC-E02263B6C731}|CORE\\CORE.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\core\\dtos\\prendaestampadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\ubicacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C8EC8-D5D3-4B1C-B2F3-A35129296611}|Servicios\\Servicios.csproj|c:\\users\\lenovo\\source\\repos\\persicuf\\servicios\\servicios\\rubroservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZapatoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ZapatoServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ZapatoServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ZapatoServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ZapatoServicio.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:53:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemeraServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\RemeraServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\RemeraServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\RemeraServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\RemeraServicio.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:52:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantalonServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PantalonServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PantalonServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PantalonServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PantalonServicio.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwIkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:51:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrendaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaServicio.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwIUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:49:13.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrendaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaDTO.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:48:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prenda.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\DB\\Models\\Prenda.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\DB\\Models\\Prenda.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\DB\\Models\\Prenda.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\DB\\Models\\Prenda.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:48:12.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CamperaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\CamperaServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\CamperaServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\CamperaServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\CamperaServicio.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowIcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:47:19.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalidadServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\LocalidadServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\LocalidadServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\LocalidadServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\LocalidadServicio.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:43:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImagenServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ImagenServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ImagenServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ImagenServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ImagenServicio.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:41:34.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPrendaEstampadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Interfaces\\IPrendaEstampadoServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Interfaces\\IPrendaEstampadoServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Interfaces\\IPrendaEstampadoServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Interfaces\\IPrendaEstampadoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:39:48.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrendaEstampadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaEstampadoDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaEstampadoDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaEstampadoDTO.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\CORE\\DTOs\\PrendaEstampadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:37:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrendaEstampadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaEstampadoServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaEstampadoServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaEstampadoServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PrendaEstampadoServicio.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:36:59.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PedidoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PedidoServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PedidoServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\PedidoServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\PedidoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:34:40.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DomicilioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\DomicilioServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\DomicilioServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\DomicilioServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\DomicilioServicio.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowGkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:27:43.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColorServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ColorServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ColorServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\ColorServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\ColorServicio.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwIQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:42:39.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UbicacionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\UbicacionServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\UbicacionServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\UbicacionServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\UbicacionServicio.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwHsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:56:00.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RubroServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\RubroServicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\RubroServicio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Persicuf\\Servicios\\Servicios\\RubroServicio.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Persicuf\\Servicios\\Servicios\\RubroServicio.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwGcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:53:20.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
